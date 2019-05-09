@@ -1,0 +1,37 @@
+{
+  "summerTours": [
+    {
+      "id": 101,
+      "tourName": "simla",
+      "cost": 19000
+    },
+    {
+      "id": 102,
+      "tourName": "swizz",
+      "cost": 200000
+    },
+    {
+      "id": 103,
+      "tourName": "pondy",
+      "cost": 1500
+    },
+    {
+      "id": 104,
+      "tourName": "UK",
+      "cost": 500000
+    }
+  ],
+  "agents": [
+    {
+      "id": 1033,
+      "tourName": "simla2",
+      "cost": 19000
+    },
+    {
+      "id": 1033,
+      "tourName": "swizz2",
+      "cost": 200000
+    }
+  ],
+  "employees": []
+}
